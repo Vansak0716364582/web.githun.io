@@ -1,0 +1,96 @@
+body{
+   margin: 5px;
+    background-color: rgb(233, 242, 242);
+   display: flex;
+   justify-content:space-evenly ;
+}
+.left{
+    width: 55%;
+    height: 500px;
+    background-color: white;
+
+}
+
+.post{
+    width:100%;
+    height: 500px;
+    background-color: white;
+    box-shadow: 10px 5px 5px rgb(113, 135, 135);
+}
+.post img{
+    width: 100%;
+    height: 230px;
+    background-color: aliceblue;
+    padding-bottom: 20px;
+    
+}
+.title{
+    margin: 7px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.post h1{
+    margin: 5px;
+    padding-left: 10px;
+    color: rgb(113, 135, 135);
+    font-size: 20p;
+}
+.postster{
+    margin: 8px;
+}
+.titlecolor{
+    color: brown;
+}
+button{
+    margin-left: 15px;
+    width: 110px;
+    height: 40px;
+}
+.postfotter{
+display: flex;
+justify-content: space-between;
+margin: 4px;
+
+}
+.comments{
+    background-color:black ;
+    padding:5px 10px ;
+    color: aliceblue;
+    border-radius: 50%;
+}
+.right{
+    width: 40%;
+    height: 500px;
+    background-color: white;
+}
+.vansak{
+    
+        width:100%;
+        height: 500px;
+        background-color: white;
+        box-shadow: 10px 5px 5px rgb(113, 135, 135);
+    
+}
+.vansak img{
+    width: 300px;
+    height: 230px;
+    border: 100px;
+}
+.vansak h1{
+    margin: 8px 5px;
+    padding: 5px;
+    color: rgb(80, 53, 137);
+    font-size: 30px;
+}
+.chhun{
+    color: blue;
+    font-style: oblique;
+}
+.chhun1{
+    margin-left: 10px;
+    font-size: 20px;
+}
+p{
+    margin: 10px;
+    color: rgb(16, 53, 53);
+}
